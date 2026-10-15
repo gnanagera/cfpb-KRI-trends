@@ -1,0 +1,11 @@
+# Raw data (large, and available from the source)
+data/
+*.csv
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Secrets and local config
+.env
+*.env
